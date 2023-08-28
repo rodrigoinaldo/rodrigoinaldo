@@ -1,5 +1,5 @@
-HELLO!, My name is Rodrigo, I'm a student of internet systems<br>
--> learning JS
+HELLO!, My name is Rodrigo, I'm a student of internet systems
+<-> learning JS
 
 <picture>
   <source
