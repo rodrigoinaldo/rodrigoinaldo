@@ -13,4 +13,4 @@ HELLO!, My name is Rodrigo, I'm a student of internet systems
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigoinaldo&show_icons=true" />
 </picture>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rodrigoinaldo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoinaldo)](https://github.com/anuraghazra/github-readme-stats)
