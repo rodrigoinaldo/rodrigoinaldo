@@ -1,5 +1,5 @@
 HELLO!, My name is Rodrigo, I'm a student of internet systems
-<-> learning JS
+-> learning JS
 
 <picture>
   <source
@@ -13,6 +13,4 @@ HELLO!, My name is Rodrigo, I'm a student of internet systems
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigoinaldo&show_icons=true" />
 </picture>
 
-<div staly="display: inline_block"><br>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</div>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
