@@ -3,7 +3,7 @@ HELLO!, My name is Rodrigo, I'm a student of internet systems
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rodrigoinaldo&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=rodrigoinaldo&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
