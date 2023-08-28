@@ -12,3 +12,7 @@ HELLO!, My name is Rodrigo, I'm a student of internet systems
   />
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigoinaldo&show_icons=true" />
 </picture>
+
+<div staly="display: inline_block"><br>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</div>
