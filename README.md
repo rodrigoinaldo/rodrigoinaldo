@@ -1,4 +1,5 @@
-HELLO!, My name is Rodrigo, I'm a student of internet systems,learning JS, PHP and SQL.
+HELLO!, My name is Rodrigo, I'm a student of internet systems,learning
+PHP and SQL.
 
 
   
