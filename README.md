@@ -1,5 +1,5 @@
 HELLO!, My name is Rodrigo, I'm a student of internet systems,learning
-PHP and SQL.
+PHP, TS and SQL.
 
 
   
