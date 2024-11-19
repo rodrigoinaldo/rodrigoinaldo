@@ -1,5 +1,5 @@
 HELLO!, My name is Rodrigo, I'm a student of internet systems,learning
-PHP, TS and SQL.
+PHP(Laravel), TS/JS(NODE) , SQL and NoSQL.
 
 
   
